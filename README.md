@@ -75,14 +75,6 @@ lib/
 
 ---
 
-### `webview_screen.dart`
-- **클래스**: `WebViewScreen extends StatelessWidget`
-- **역할**:
-  - 보조 웹뷰 화면으로 추정
-  - 독립적 WebView 로딩을 위한 화면
-
----
-
 ### `controller/inapp_controller.dart`
 - **클래스**: `WebViewControllerX extends GetxController`
 - **역할**:
@@ -148,7 +140,7 @@ lib/
 
 ---
 
-### 🧩 주요 메소드 설명
+### 주요 메소드 설명
 
 #### `void onInit()`
 - GetX 생명주기 메소드, 초기화 시점.
